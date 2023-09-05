@@ -4,7 +4,7 @@ The goal of this repository is to provide a Colab notebook to run the text-to-im
 
 ## Usage
 
--   Run [`stable_diffusion.ipynb`][colab-notebook-stable-diffusion].
+-   Run [`text_to_image.ipynb`][colab-notebook-stable-diffusion].
 [![Open In Colab][colab-badge]][colab-notebook-stable-diffusion]
 
 ## System Requirements
