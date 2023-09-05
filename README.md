@@ -7,6 +7,13 @@ The goal of this repository is to provide a Colab notebook to run the text-to-im
 -   Run [`stable_diffusion.ipynb`][colab-notebook-stable-diffusion].
 [![Open In Colab][colab-badge]][colab-notebook-stable-diffusion]
 
+## System Requirements
+
+Nvidia Graphics Card
+6.9GB VRAM
+10GB Hard Drive
+8GB Memory (RAM)
+
 ## Results
 
 <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_3xl.jpg" width="256"> <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_1xl.jpg" width="256"> <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_2xl.jpg" width="256">
@@ -29,11 +36,6 @@ Different results obtained with the text prompt: "a photo of Pikachu fine dining
 [huggingface-latest-weights]: <https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0>
 [huggingface-sd2-resolution-512]: <https://huggingface.co/stabilityai/stable-diffusion-2-1-base>
 [huggingface-sd2-resolution-768]: <https://huggingface.co/stabilityai/stable-diffusion-2-1>
-[huggingface-sd2-examples]: <https://huggingface.co/stabilityai/stable-diffusion-2#examples>
-[huggingface-sd21-examples]: <https://huggingface.co/stabilityai/stable-diffusion-2-1#examples>
-[huggingface-demo]: <https://huggingface.co/spaces/stabilityai/stable-diffusion>
-[dreamstudio-demo]: <http://beta.dreamstudio.ai>
-[edm-implementation]: <https://github.com/NVlabs/edm>
 
 [colab-notebook-stable-diffusion]: <https://colab.research.google.com/github/woctezuma/stable-diffusion-colab/blob/main/stable_diffusion.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
