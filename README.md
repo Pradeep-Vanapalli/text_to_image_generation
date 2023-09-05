@@ -16,19 +16,12 @@ Nvidia Graphics Card
 
 ## Results
 
-<img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_3xl.jpg" width="256"> <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_1xl.jpg" width="256"> <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_2xl.jpg" width="256">
-
+<img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_3xl.jpg" width="256"> 
 <sub>
 Different results obtained with the text prompt: "a photo of an astronaut riding a horse on Mars" using Stable Diffusion XL.
 </sub>
 
 ---
-
-<img alt="Pikachu in Paris" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/pikachu_3xl.jpg" width="256"> <img alt="Pikachu in Paris" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/pikachu_1xl.jpg" width="256"> <img alt="Pikachu in Paris" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/pikachu_2xl.jpg" width="256">
-
-<sub>
-Different results obtained with the text prompt: "a photo of Pikachu fine dining with a view to the Eiffel Tower" using Stable Diffusion XL.
-</sub>
 
 ## References
 [huggingface-blogpost]: <https://huggingface.co/blog/stable_diffusion>
