@@ -9,10 +9,10 @@ The goal of this repository is to provide a Colab notebook to run the text-to-im
 
 ## System Requirements
 
-Nvidia Graphics Card
-6.9GB VRAM
-10GB Hard Drive
-8GB Memory (RAM)
+- Nvidia Graphics Card
+- 6.9GB VRAM
+- 10GB Hard Drive
+- 8GB Memory (RAM)
 
 ## Results
 
