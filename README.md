@@ -18,7 +18,7 @@ Nvidia Graphics Card
 
 <img alt="Astronaut on Mars" src="https://github.com/woctezuma/stable-diffusion-colab/wiki/img/astronaut_3xl.jpg" width="256"> 
 <sub>
-Different results obtained with the text prompt: "a photo of an astronaut riding a horse on Mars" using Stable Diffusion XL.
+Text prompt: "a photo of an astronaut riding a horse on Mars" using Stable Diffusion XL.
 </sub>
 
 ---
