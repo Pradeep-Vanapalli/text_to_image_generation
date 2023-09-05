@@ -24,15 +24,6 @@ Different results obtained with the text prompt: "a photo of Pikachu fine dining
 </sub>
 
 ## References
-
-[1] Rombach, Robin, et al. [*High-resolution image synthesis with latent diffusion models*][stable-diffusion-paper]. CVPR 2022.
-([models][huggingface-models] & [demo][huggingface-demo])
-
-[2] Karras, Tero, et al. [*Elucidating the Design Space of Diffusion-Based Generative Models*][sampler-schedule-paper]. NeurIPS 2022. ([code][edm-implementation])
-
-[stable-diffusion-paper]: <https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html>
-[sampler-schedule-paper]: <https://arxiv.org/abs/2206.00364>
-
 [huggingface-blogpost]: <https://huggingface.co/blog/stable_diffusion>
 [huggingface-models]: <https://huggingface.co/CompVis/stable-diffusion>
 [huggingface-latest-weights]: <https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0>
